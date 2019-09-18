@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Inclass1Project</string>
+    <string name="textbox_input">Enter any message here.</string>
+    <string name="main_activity_title">Kevin Lieng\'s InClass1Project App</string>
+    <string name="button_toast">Press For Toast</string>
+    <string name="icon_desc">Just a car logo</string>
 </resources>
